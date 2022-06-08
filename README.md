@@ -1,3 +1,8 @@
+## Notification
+This project has been moved to GitLab :(
+
+[Link to GitLab](https://gitlab.com/FlynnTaggart/RacingGame)
+
 # Project Kuruma
  Project Kuruma is a simple racing game in which the player has to overcome the tracks in the shortest possible time. The game features several cars and maps. The user interface shows all relevant information about the race and helps the player to better control the vehicle. Project Kuruma supports gamepad or keyboard+mouse control. The game is made on Unreal Engine using Blueprint Visual Scripting. 
 ## Launching project from sourse code
